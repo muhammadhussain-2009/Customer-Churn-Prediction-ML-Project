@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/languages/top/muhammadhussain-2009/Customer-Churn-Prediction-ML-Project?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/muhammadhussain-2009/Customer-Churn-Prediction-ML-Project?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:Python, FASTAPI, POSTMAN, Uvicorn, Joblib, Numpy, Pandas, Scikit-Learn, Jupyter Notebook, VSCode</em>
+<em>Built with the tools and technologies:Python, Streamlit, Joblib, Numpy, Pandas, Scikit-Learn, Jupyter Notebook, VSCode</em>
 
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 
